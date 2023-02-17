@@ -1,0 +1,107 @@
+/* #FF597B
+#FF8E9E
+#F9B5D0
+#EEEEEE */
+
+body {
+    background-color: #FF597B;
+    text-align: center;
+
+}
+
+.container {
+    background-color: #FF8E9E;
+}
+
+.container,
+sup {
+    background-color: #FF597B;
+}
+
+.corazonS {
+    height: 100px;
+}
+
+.coraCayendo {
+    width: 630px;
+    height: 100px;
+}
+
+
+.col-4 title {
+    display: flex;
+    align-content: center;
+    /* flex-direction: row; */
+}
+
+
+#as,
+.frase,
+.letras,.bot {
+    /* background-color: #EEEEEE;  */
+    display: flex;
+    /* centrar verticalmente */
+    align-items: center;
+    justify-items: right;
+    text-align: center;
+    /* height: 150px; */
+    font-weight: 900;
+}
+
+#title,
+#posi {
+    font-family: 'Great Vibes', cursive;
+    text-shadow: 1px 1px 1px #EEEEEE;
+}
+
+#frase, .pregunta {
+    font-family: 'Great Vibes', cursive;
+    text-shadow: 1px 1px 1px #EEEEEE;
+    font-size: 50px;
+}
+
+.letras, .vd {
+    font-family: 'Mynerve', cursive;
+    font-size: 20px;
+}
+
+/* 
+#marco {
+    background-color: black;
+} */
+
+.sep {
+    background-color: #FF597B;
+}
+
+.d-block,
+w-100,
+opciones {
+    /* max-width: 600px;  */
+    max-height: 330px;
+}
+
+#punt {
+    max-width: 600px;
+}
+
+#cuteFace {
+    max-width: 200px;
+}
+
+.botoncito {
+    background-color: #EEEEEE;
+    color: #FF597B;
+    border:1px #EEEEEE;
+    font-weight: 800;
+}
+.botoncito:hover{
+    background-color:#F9B5D0;
+    color: #EEEEEE;
+}
+.bot{
+    padding: 20px;
+}
+.posibilities{
+    background-color: #FF8E9E;
+}
